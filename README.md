@@ -52,7 +52,7 @@ Designed to guide visitors toward meaningful engagement and lead generation.
 - Client feedback and social proof
 - Trust-building testimonial section on the homepage
 
-### 🔹 Live Chat
+### 🔹 Live Chat (BETA)
 - Real-time visitor communication
 - Trigger-based engagement after time-on-page
 
