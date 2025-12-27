@@ -1,0 +1,20 @@
+<!--
+  ____   __   __  _____  __  __     _    
+ |  _ \  \ \ / / | ____| \ \/ /    / \   
+ | | | |  \ V /  |  _|    \  /    / _ \  
+ | |_| |   | |   | |___   /  \   / ___ \ 
+ |____/    |_|   |_____| /_/\_\ /_/   \_\
+                                         
+Several issues i face when creating the sites: -->
+    
+[Fixed] Fake-Auth
+    issue: sign out logic fix click not matching with figma tests
+    solve: copy button.tsx from figma to button.tsx in this default vscode.
+    components: header.tsx, authContext.tsx, authModal.tsx & button.tsx, progressbar.tsx
+
+[Fixed] Link
+    issue: Few buttons doesn't have proper link section
+    solve: Make new one
+    components: Service.tsx, servicedetail.tsx
+
+    
