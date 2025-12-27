@@ -93,7 +93,6 @@ dyexalabs/
 │   │   ├── auth/          # Authentication-related components
 │   │   ├── common/        # Shared/common components
 │   │   ├── effects/       # Visual & interaction effects
-│   │   ├── figma/         # Design-derived components
 │   │   ├── home/          # Homepage-specific components
 │   │   ├── layout/        # Layout and structural components
 │   │   └── ui/            # UI primitives and design system
