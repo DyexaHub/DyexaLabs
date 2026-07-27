@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-import CEO from '/dyexalabs_co.jpeg';
-=======
-import CEO from 'dyexalabs_co.jpeg';
->>>>>>> a16a7d2 (LATEST)
+import CEO from '/dyexalabs_co.jpeg'
 import React, { useState, useEffect } from "react";
 import { 
   motion, 
