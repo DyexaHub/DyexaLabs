@@ -14,11 +14,9 @@
 
     "types": ["vite/client"],
 
-    "baseUrl": ".",
-    "paths": {
+    "baseUrl": ".",    "paths": {
       "@/*": ["src/*"]
     },
-    "ignoreDeprecations": "6.0",
 
     "allowImportingTsExtensions": true,
     "verbatimModuleSyntax": true,
