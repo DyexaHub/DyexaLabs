@@ -16,5 +16,3 @@ Several issues we face when creating the sites: -->
     issue: Few buttons doesn't have proper link section
     solve: Make new one
     components: Service.tsx, servicedetail.tsx
-
-    
