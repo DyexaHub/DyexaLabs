@@ -5,7 +5,7 @@
  | |_| |   | |   | |___   /  \   / ___ \ 
  |____/    |_|   |_____| /_/\_\ /_/   \_\
                                          
-Several issues i face when creating the sites: -->
+Several issues we face when creating the sites: -->
     
 [Fixed] Fake-Auth
     issue: sign out logic fix click not matching with figma tests
