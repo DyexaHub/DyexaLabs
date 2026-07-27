@@ -16,3 +16,8 @@ Several issues we face when creating the sites: -->
     issue: Few buttons doesn't have proper link section
     solve: Make new one
     components: Service.tsx, servicedetail.tsx
+
+[Fixed] Images Size
+    issue: Company logo images from Wikimedia Commons were not loading because unsupported thumbnail sizes (e.g. 640px, 2560px) returned HTTP 429 responses.
+    solve: Updated all Wikimedia thumbnail URLs to use the supported 500px thumbnail size, restoring image loading.
+    components: Testimonials.tsx

@@ -79,17 +79,17 @@ const testimonials = [
 ];
 
 const logos = [
-  "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/2560px-Google_2015_logo.svg.png",
-  "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/IBM_logo.svg/2560px-IBM_logo.svg.png",
-  "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Microsoft_logo_%282012%29.svg/2560px-Microsoft_logo_%282012%29.svg.png",
-  "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_2015_logo.svg/2560px-Netflix_2015_logo.svg.png",
-  "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Amazon_logo.svg/2560px-Amazon_logo.svg.png",
-  "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Pertamina_Logo.svg/640px-Pertamina_Logo.svg.png",
-  "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/JPMorgan_Chase.svg/640px-JPMorgan_Chase.svg.png",
-  "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Samsung_Orig_Wordmark_BLACK_RGB.png/640px-Samsung_Orig_Wordmark_BLACK_RGB.png",
-  "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Cisco_logo_blue_2016.svg/640px-Cisco_logo_blue_2016.svg.png",
-  "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Tesla_Motors_Logo.svg/640px-Tesla_Motors_Logo.svg.png",
-  "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Versace_old_logo.svg/640px-Versace_old_logo.svg.png"
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/500px-Google_2015_logo.svg.png",
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/IBM_logo.svg/500px-IBM_logo.svg.png",
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Microsoft_logo_%282012%29.svg/500px-Microsoft_logo_%282012%29.svg.png",
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_2015_logo.svg/500px-Netflix_2015_logo.svg.png",
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Amazon_logo.svg/500px-Amazon_logo.svg.png",
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Pertamina_Logo.svg/500px-Pertamina_Logo.svg.png",
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/JPMorgan_Chase.svg/500px-JPMorgan_Chase.svg.png",
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Samsung_Orig_Wordmark_BLACK_RGB.png/500px-Samsung_Orig_Wordmark_BLACK_RGB.png",
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Cisco_logo_blue_2016.svg/500px-Cisco_logo_blue_2016.svg.png",
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Tesla_Motors_Logo.svg/500px-Tesla_Motors_Logo.svg.png",
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Versace_old_logo.svg/500px-Versace_old_logo.svg.png"
 ];
 
 export const Testimonials = () => {
