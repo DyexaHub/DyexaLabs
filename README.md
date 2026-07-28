@@ -146,7 +146,8 @@ npm run build
 
 ## 🌍 Live Website
 
-🔗 **[https://dyexalabs.netlify.app](https://dyexalabs.netlify.app)**
+🔗 **[NETLIFY](https://dyexalabs.netlify.app)**
+🔗 **[VERCEL](https://dyexalabs.vercel.app)**
 
 ---
 
